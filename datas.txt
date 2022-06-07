@@ -1,0 +1,91 @@
+('Santa Inês',"2022-01-21"),('Dom Bosco',"2022-01-31"),('São Braz',"2022-02-03"),('Santa Josefina Bakhita',"2022-02-08"),('Santa Apolônia',"2022-02-09"),('Nossa Senhora de Lourdes',"2022-02-11"),('São Longuinho',"2022-03-15"),('São José',"2022-03-19"),('São Expedito',"2022-04-19"),('São Jorge',"2022-04-23"),('São Marcos',"2022-04-25"), ('São José Carpinteiro',"2022-05-01"),('São Peregrino',"2022-05-04"),('Nossa Senhora de Fátima',"2022-05-13"),('Santo Ivo',"2022-05-19"),('Santa Rita',"2022-05-22"),('Santo Antônio',"2022-06-13"),
+('São João Batista',"2022-06-24"),('São Paulo',"2022-06-29"),('São Pedro',"2022-06-29"),('Santa Isabel',"2022-07-04"),('Santa Paulina',"2022-07-09"),('São Bento ',"2022-07-11"),('Santa Verônica',"2022-07-12"),('Nossa Senhora da Rosa Mística',"2022-07-13"),('São Camilo de Lellis',"2022-07-14"),
+('Nossa Senhora do Carmo',"2022-07-16"),('São Cristovão',"2022-07-25"),('Santa Ana',"2022-07-26"),('Santa Marta',"2022-04-29"),('São Lazaro',"2022-04-29"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+('São ',"2022-04-25"),
+
+
+Dia 26 - 
+Dia 29 - 
+Dia 29 - 
+
+MÊS DE AGOSTO
+Dia 11 - Santa Clara
+Dia 11 - Santa Filomena
+Dia 15 - Nossa Senhora da Assunção
+Dia 15 - Nossa Senhora do Sorriso
+Dia 16 - São Roque
+Dia 18 - Santa Helena
+Dia 27 - Santa Mônica
+Dia 28 - Santo Agostinho
+Dia 30 - Santa Rosa de Lima
+
+MÊS DE SETEMBRO
+Dia 04 - Santa Rosália
+Dia 15 - Nossa Senhora da Piedade
+Dia 15 - Nossa Senhora das Angústias
+Dia 15 - Nossa Senhora das Dores
+Dia 15 - Nossa Senhora do Calvário
+Dia 15 - Nossa Senhora do Pranto
+Dia 19 - Nossa Senhora da Salete
+Dia 21 - São Mateus
+Dia 23 - Padre Pio
+Dia 24 - Nossa Senhora das Mercês
+Dia 26 - São Cosme e São Damião
+Dia 26 - São Cosme e Damião
+Dia 29 - São Miguel
+Dia 29 - São Rafael
+Dia 29 - São Gabriel
+Dia 29 - São Rafael
+
+MÊS DE OUTUBRO
+Dia 01 - Santa Teresa
+Dia 02 - Anjo da Guarda
+Dia 04 - São Francisco de Assis
+Dia 05 - São Benedito
+Dia 07 - Nossa Senhora do Rosário
+Dia 12 - Nossa Senhora Aparecida
+Dia 12 - Nossa Senhora de Nazaré
+Dia 16 - Santa Edwiges
+Dia 16 - São Geraldo
+Dia 18 - São Lucas
+Dia 25 - Frei Galvão
+Dia 28 - São Judas Tadeu
+
+MÊS DE NOVEMBRO
+Dia 22 - Santa Cecília
+Dia 25 - Santa Catarina
+Dia 27 - Nossa Senhora das Graças
+Dia 30 - Santo André
+
+MÊS DE DEZEMBRO
+Dia 04 - Santa Barbara
+Dia 08 - Nossa Senhora da Conceição
+Dia 08 - Nossa Senhora Imaculada Conceição
+Dia 12 - Nossa Senhora de Guadalupe
+Dia 13 - Santa Luzia
+Dia 27 - São João
